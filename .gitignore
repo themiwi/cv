@@ -1,7 +1,7 @@
 *.dvi
 *.sw[op]
-*._aux
-*._log
+*_aux
+*_log
 *.aux
 *.fdb_latexmk
 *.fls
